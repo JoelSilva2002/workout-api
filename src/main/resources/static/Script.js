@@ -1,5 +1,5 @@
 // --- VARIÁVEIS GLOBAIS E CONSTANTES ---
-const API_URL = 'http://localhost:8080/api';
+const API_URL = 'https://meu-treino-api-1bh7.onrender.com';
 let planosDisponiveis = [];
 let exercicioAtual = null;
 let serieAtualIndex = 0;
